@@ -1,0 +1,13 @@
+
+|   VirtualWallet   |
+|-------------------|
+| - balance: double |
+| - exchangeRateToEuro: double |
+| - exchangeRateToDollar: double |
+|-------------------|
+| + VirtualWallet(initial_balance: double) |
+| + deposit(amount: double): void |
+| + withdraw(amount: double): void |
+| + getBalance(): double |
+| + convertToEuro(): double |
+| + convertToDollar(): double |

@@ -1,0 +1,5 @@
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache

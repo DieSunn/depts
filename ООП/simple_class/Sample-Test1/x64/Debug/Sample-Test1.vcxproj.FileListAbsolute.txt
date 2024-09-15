@@ -1,0 +1,4 @@
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\Sample-Test1\x64\Debug\Sample-Test1.vcxproj.CopyComplete
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\Sample-Test1\x64\Debug\Sample-Test1.exe
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\Sample-Test1\x64\Debug\gtest.pdb
+F:\прога\Универ\долги\Зимняя сессия\ООП\simple_class\Sample-Test1\x64\Debug\gtest_main.pdb
