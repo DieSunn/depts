@@ -1,0 +1,10 @@
+# ninja log v6
+4	635	7517020976616233	triangle_autogen/timestamp	4b42f530c9ac7a4c
+4	635	7517020976616233	triangle_autogen/mocs_compilation.cpp	4b42f530c9ac7a4c
+4	635	7517020976616233	F:/прога/Универ/долги/depts/ООП/qt/triangle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/triangle_autogen/timestamp	4b42f530c9ac7a4c
+4	635	7517020976616233	F:/прога/Универ/долги/depts/ООП/qt/triangle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/triangle_autogen/mocs_compilation.cpp	4b42f530c9ac7a4c
+659	995	7517020977736879	CMakeFiles/triangle.dir/triangle.cpp.obj	cfe5cda110ab2b9c
+639	3091	7517020977546609	CMakeFiles/triangle.dir/triangle_autogen/mocs_compilation.cpp.obj	dad686da2900ca18
+651	3178	7517020977661721	CMakeFiles/triangle.dir/mainwindow.cpp.obj	f00490e3ba904281
+645	3328	7517020977601673	CMakeFiles/triangle.dir/main.cpp.obj	f2f37936cf225ca4
+3328	3612	7517021004437804	triangle.exe	1fce340481387c0a
