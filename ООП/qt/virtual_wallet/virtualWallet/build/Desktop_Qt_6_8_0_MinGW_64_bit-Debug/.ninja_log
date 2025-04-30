@@ -1,0 +1,24 @@
+# ninja log v6
+3	783	7620241935334423	virtualWallet_autogen/timestamp	fb60f59189b65dd3
+3	783	7620241935334423	virtualWallet_autogen/mocs_compilation.cpp	fb60f59189b65dd3
+3	783	7620241935334423	F:/прога/Универ/долги/depts/ООП/qt/virtual_wallet/virtualWallet/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/virtualWallet_autogen/timestamp	fb60f59189b65dd3
+3	783	7620241935334423	F:/прога/Универ/долги/depts/ООП/qt/virtual_wallet/virtualWallet/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/virtualWallet_autogen/mocs_compilation.cpp	fb60f59189b65dd3
+810	3788	7620241936713499	CMakeFiles/virtualWallet.dir/wallet.cpp.obj	3736309ae5da54b5
+789	3995	7620241936502690	CMakeFiles/virtualWallet.dir/virtualWallet_autogen/mocs_compilation.cpp.obj	487b5a575840c64c
+794	4014	7620241936547814	CMakeFiles/virtualWallet.dir/main.cpp.obj	c058c8420dcac844
+799	4362	7620241936603027	CMakeFiles/virtualWallet.dir/mainwindow.cpp.obj	a0822cc46c34281c
+29	247	7620242092116078	virtualWallet_autogen/timestamp	fb60f59189b65dd3
+29	247	7620242092116078	virtualWallet_autogen/mocs_compilation.cpp	fb60f59189b65dd3
+29	247	7620242092116078	F:/прога/Универ/долги/depts/ООП/qt/virtual_wallet/virtualWallet/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/virtualWallet_autogen/timestamp	fb60f59189b65dd3
+29	247	7620242092116078	F:/прога/Универ/долги/depts/ООП/qt/virtual_wallet/virtualWallet/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/virtualWallet_autogen/mocs_compilation.cpp	fb60f59189b65dd3
+247	326	7620242094292171	CMakeFiles/virtualWallet.dir/transaction.cpp.obj	42dbec7d4b696c42
+326	719	7620242095079493	virtualWallet.exe	91870e32368d3041
+11	596	7620245146410306	virtualWallet_autogen/timestamp	fb60f59189b65dd3
+11	596	7620245146410306	virtualWallet_autogen/mocs_compilation.cpp	fb60f59189b65dd3
+11	596	7620245146410306	F:/прога/Универ/долги/depts/ООП/qt/virtual_wallet/virtualWallet/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/virtualWallet_autogen/timestamp	fb60f59189b65dd3
+11	596	7620245146410306	F:/прога/Универ/долги/depts/ООП/qt/virtual_wallet/virtualWallet/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/virtualWallet_autogen/mocs_compilation.cpp	fb60f59189b65dd3
+610	3199	7620245147492975	CMakeFiles/virtualWallet.dir/wallet.cpp.obj	3736309ae5da54b5
+597	3560	7620245147372612	CMakeFiles/virtualWallet.dir/virtualWallet_autogen/mocs_compilation.cpp.obj	487b5a575840c64c
+601	3711	7620245147412684	CMakeFiles/virtualWallet.dir/main.cpp.obj	c058c8420dcac844
+605	4264	7620245147457843	CMakeFiles/virtualWallet.dir/mainwindow.cpp.obj	a0822cc46c34281c
+4264	4651	7620245184045906	virtualWallet.exe	91870e32368d3041

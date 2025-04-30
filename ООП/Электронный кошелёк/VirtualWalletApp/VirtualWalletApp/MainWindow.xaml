@@ -1,0 +1,57 @@
+﻿<Window x:Class="VirtualWalletApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VirtualWalletApp"
+        mc:Ignorable="d"
+        Title="Виртуальный кошелек" Height="450" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,10">
+            <Label Content="Текущий баланс:" FontWeight="Bold" VerticalAlignment="Center"/>
+            <Label x:Name="BalanceLabel" Content="0.00 руб." FontWeight="Bold" FontSize="16" VerticalAlignment="Center" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" BorderBrush="Gray" BorderThickness="1" Padding="5" Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="0" Grid.Column="0" Content="Сумма:" VerticalAlignment="Center"/>
+                <TextBox x:Name="AmountTextBox" Grid.Row="0" Grid.Column="1" Margin="5" VerticalAlignment="Center"/>
+
+                <Label Grid.Row="1" Grid.Column="0" Content="Описание:" VerticalAlignment="Center"/>
+                <TextBox x:Name="DescriptionTextBox" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Margin="5" VerticalAlignment="Center"/>
+
+                <Button x:Name="AddIncomeButton" Grid.Row="0" Grid.Column="2" Content="Добавить доход" Margin="5" Padding="5" Click="AddIncomeButton_Click"/>
+                <Button x:Name="AddExpenseButton" Grid.Row="0" Grid.Column="3" Content="Добавить расход" Margin="5" Padding="5" Click="AddExpenseButton_Click"/>
+            </Grid>
+        </Border>
+
+        <GroupBox Grid.Row="2" Header="История транзакций">
+            <ListBox x:Name="TransactionsListBox" Margin="5"/>
+        </GroupBox>
+
+        <StatusBar Grid.Row="3">
+            <StatusBarItem>
+                <TextBlock x:Name="StatusTextBlock" Text="Готово"/>
+            </StatusBarItem>
+        </StatusBar>
+
+    </Grid>
+</Window>

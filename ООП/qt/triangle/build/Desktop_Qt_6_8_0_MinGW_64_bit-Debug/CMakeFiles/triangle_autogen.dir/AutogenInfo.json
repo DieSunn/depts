@@ -263,21 +263,7 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/triangle_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "triangle_autogen/timestamp",
-	"HEADERS" : 
-	[
-		[
-			"F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/mainwindow.h",
-			"MU",
-			"EWIEGA46WW/moc_mainwindow.cpp",
-			null
-		],
-		[
-			"F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/triangle.h",
-			"MU",
-			"EWIEGA46WW/moc_triangle.cpp",
-			null
-		]
-	],
+	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/triangle_autogen/include",
 	"MOC_COMPILATION_FILE" : "F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/triangle_autogen/mocs_compilation.cpp",
@@ -347,24 +333,7 @@
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 8,
 	"SETTINGS_FILE" : "F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/triangle_autogen.dir/AutogenUsed.txt",
-	"SOURCES" : 
-	[
-		[
-			"F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/main.cpp",
-			"MU",
-			null
-		],
-		[
-			"F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/mainwindow.cpp",
-			"MU",
-			null
-		],
-		[
-			"F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/triangle/triangle.cpp",
-			"MU",
-			null
-		]
-	],
+	"SOURCES" : [],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : [],

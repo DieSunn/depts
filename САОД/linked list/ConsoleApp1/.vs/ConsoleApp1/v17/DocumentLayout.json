@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\linked list\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56ECCFC-0B3E-404F-8911-FAA7E46E95F2}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u043F\u0440\u043E\u0433\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0441\u0430\u043E\u0434\\linked list\\consoleapp1\\consoleapp1\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56ECCFC-0B3E-404F-8911-FAA7E46E95F2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56ECCFC-0B3E-404F-8911-FAA7E46E95F2}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u043F\u0440\u043E\u0433\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0441\u0430\u043E\u0434\\linked list\\consoleapp1\\consoleapp1\\iterlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56ECCFC-0B3E-404F-8911-FAA7E46E95F2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iterlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56ECCFC-0B3E-404F-8911-FAA7E46E95F2}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u043F\u0440\u043E\u0433\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0441\u0430\u043E\u0434\\linked list\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56ECCFC-0B3E-404F-8911-FAA7E46E95F2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\linked list\\ConsoleApp1\\ConsoleApp1\\program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\program.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\linked list\\ConsoleApp1\\ConsoleApp1\\program.cs",
+              "RelativeToolTip": "ConsoleApp1\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:18:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IterLinkedList.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\linked list\\ConsoleApp1\\ConsoleApp1\\IterLinkedList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IterLinkedList.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\linked list\\ConsoleApp1\\ConsoleApp1\\IterLinkedList.cs",
+              "RelativeToolTip": "ConsoleApp1\\IterLinkedList.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:17:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedListNode.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\linked list\\ConsoleApp1\\ConsoleApp1\\LinkedListNode.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\LinkedListNode.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\linked list\\ConsoleApp1\\ConsoleApp1\\LinkedListNode.cs",
+              "RelativeToolTip": "ConsoleApp1\\LinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:17:13.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

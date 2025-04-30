@@ -1,0 +1,11 @@
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.AssemblyReference.cache
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.LoginForm.resources
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.MainForm.resources
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+F:\прога\Универ\долги\depts\ООП\cb\ChatBot\ChatBot\obj\Debug\ChatBot.pdb

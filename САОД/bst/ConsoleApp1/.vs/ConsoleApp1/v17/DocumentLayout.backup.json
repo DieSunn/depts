@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u043F\u0440\u043E\u0433\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0441\u0430\u043E\u0434\\bst\\consoleapp1\\consoleapp1\\treetraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\treetraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u043F\u0440\u043E\u0433\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0441\u0430\u043E\u0434\\bst\\consoleapp1\\consoleapp1\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u043F\u0440\u043E\u0433\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0441\u0430\u043E\u0434\\bst\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u043F\u0440\u043E\u0433\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0441\u0430\u043E\u0434\\bst\\consoleapp1\\consoleapp1\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915DF313-807C-486F-A50D-34F1FBE2EF8F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeTraversal.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\TreeTraversal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TreeTraversal.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\TreeTraversal.cs",
+              "RelativeToolTip": "ConsoleApp1\\TreeTraversal.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:15:53.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BinarySearchTree.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\BinarySearchTree.cs",
+              "RelativeToolTip": "ConsoleApp1\\BinarySearchTree.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:14:54.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\Node.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Node.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\Node.cs",
+              "RelativeToolTip": "ConsoleApp1\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:11:40.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "F:\\\u043F\u0440\u043E\u0433\u0430\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0434\u043E\u043B\u0433\u0438\\depts\\\u0421\u0410\u041E\u0414\\bst\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:35:25.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

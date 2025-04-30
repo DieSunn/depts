@@ -1,4 +1,5 @@
 triangle_autogen/timestamp: \
+	F:/Qt/6.8.0/mingw_64/include/QtCore/QPoint \
 	F:/Qt/6.8.0/mingw_64/include/QtCore/q20functional.h \
 	F:/Qt/6.8.0/mingw_64/include/QtCore/q20iterator.h \
 	F:/Qt/6.8.0/mingw_64/include/QtCore/q20memory.h \
@@ -145,6 +146,7 @@ triangle_autogen/timestamp: \
 	F:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs.h \
 	F:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs_win.h \
 	F:/Qt/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
+	F:/Qt/6.8.0/mingw_64/include/QtWidgets/QWidget \
 	F:/Qt/6.8.0/mingw_64/include/QtWidgets/qmainwindow.h \
 	F:/Qt/6.8.0/mingw_64/include/QtWidgets/qsizepolicy.h \
 	F:/Qt/6.8.0/mingw_64/include/QtWidgets/qtabwidget.h \
@@ -539,5 +541,4 @@ triangle_autogen/timestamp: \
 	F:/прога/Универ/долги/depts/ООП/qt/triangle/mainwindow.h \
 	F:/прога/Универ/долги/depts/ООП/qt/triangle/triangle.cpp \
 	F:/прога/Универ/долги/depts/ООП/qt/triangle/triangle.h \
-	F:/прога/Универ/долги/depts/ООП/qt/triangle/mainwindow.ui \
 	F:/Qt/Tools/CMake_64/bin/cmake.exe

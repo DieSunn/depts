@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-eea3fb05f9ff5300981c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "virtualWallet",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "virtualWallet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtualWallet-Debug-9bd69b50a69695f76110.json",
+					"name" : "virtualWallet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtualWallet_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtualWallet_autogen-Debug-a0280f4e3df7cb671e15.json",
+					"name" : "virtualWallet_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtualWallet_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtualWallet_autogen_timestamp_deps-Debug-c75f509e9ec49899d97a.json",
+					"name" : "virtualWallet_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/virtual_wallet/virtualWallet/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "F:/\u043f\u0440\u043e\u0433\u0430/\u0423\u043d\u0438\u0432\u0435\u0440/\u0434\u043e\u043b\u0433\u0438/depts/\u041e\u041e\u041f/qt/virtual_wallet/virtualWallet"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

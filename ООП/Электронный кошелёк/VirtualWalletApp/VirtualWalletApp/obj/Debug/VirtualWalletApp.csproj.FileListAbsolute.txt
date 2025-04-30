@@ -1,0 +1,15 @@
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.csproj.AssemblyReference.cache
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\MainWindow.g.cs
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\App.g.cs
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp_MarkupCompile.cache
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp_MarkupCompile.lref
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\bin\Debug\VirtualWalletApp.exe.config
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\bin\Debug\VirtualWalletApp.exe
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\bin\Debug\VirtualWalletApp.pdb
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\MainWindow.baml
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.g.resources
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.Properties.Resources.resources
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.csproj.GenerateResource.cache
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.csproj.CoreCompileInputs.cache
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.exe
+F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.pdb

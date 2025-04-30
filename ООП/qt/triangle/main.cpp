@@ -1,82 +1,83 @@
 #include <QApplication>
+#include <QMainWindow>
 #include <QWidget>
+#include <QVBoxLayout>
+#include <QFormLayout>
 #include <QLineEdit>
 #include <QPushButton>
-#include <QLabel>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
 #include <QMessageBox>
-#include "Triangle.h"  // Подключаем заголовочный файл
-
-class TriangleApp : public QWidget {
-public:
-    TriangleApp() {
-        // Создаем элементы интерфейса
-        QLabel *aLabel = new QLabel("Сторона a:");
-        aInput = new QLineEdit;
-
-        QLabel *bLabel = new QLabel("Сторона b:");
-        bInput = new QLineEdit;
-
-        QLabel *cLabel = new QLabel("Сторона c:");
-        cInput = new QLineEdit;
-
-        QPushButton *calcButton = new QPushButton("Рассчитать");
-        connect(calcButton, &QPushButton::clicked, this, &TriangleApp::calculate);
-
-        QLabel *perimeterLabel = new QLabel("Периметр:");
-        perimeterOutput = new QLabel;
-
-        QLabel *areaLabel = new QLabel("Площадь:");
-        areaOutput = new QLabel;
-
-        // Компонуем интерфейс
-        QVBoxLayout *mainLayout = new QVBoxLayout;
-        mainLayout->addWidget(aLabel);
-        mainLayout->addWidget(aInput);
-        mainLayout->addWidget(bLabel);
-        mainLayout->addWidget(bInput);
-        mainLayout->addWidget(cLabel);
-        mainLayout->addWidget(cInput);
-        mainLayout->addWidget(calcButton);
-        mainLayout->addWidget(perimeterLabel);
-        mainLayout->addWidget(perimeterOutput);
-        mainLayout->addWidget(areaLabel);
-        mainLayout->addWidget(areaOutput);
-
-        setLayout(mainLayout);
-    }
-
-private slots:
-    void calculate() {
-        bool ok1, ok2, ok3;
-        double a = aInput->text().toDouble(&ok1);
-        double b = bInput->text().toDouble(&ok2);
-        double c = cInput->text().toDouble(&ok3);
-
-        if (ok1 && ok2 && ok3 && a > 0 && b > 0 && c > 0 && a + b > c && a + c > b && b + c > a) {
-            Triangle triangle(a, b, c);
-            perimeterOutput->setText(QString::number(triangle.perimeter()));
-            areaOutput->setText(QString::number(triangle.area()));
-        } else {
-            QMessageBox::warning(this, "Ошибка", "Введите корректные значения сторон треугольника.");
-        }
-    }
-
-private:
-    QLineEdit *aInput;
-    QLineEdit *bInput;
-    QLineEdit *cInput;
-    QLabel *perimeterOutput;
-    QLabel *areaOutput;
-};
+#include <QIntValidator>
+#include "triangle.h"
 
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
 
-    TriangleApp window;
-    window.setWindowTitle("Triangle Calculator");
-    window.show();
+    // Создаем главное окно.
+    QMainWindow mainWindow;
+    mainWindow.setWindowTitle("Triangle Application");
+
+    // Центральный виджет с вертикальным лейаутом.
+    QWidget *centralWidget = new QWidget(&mainWindow);
+    mainWindow.setCentralWidget(centralWidget);
+    QVBoxLayout *mainLayout = new QVBoxLayout(centralWidget);
+
+    // Создаем виджет для отрисовки треугольника.
+    Triangle *triangleWidget = new Triangle();
+    triangleWidget->setMinimumHeight(300);
+    mainLayout->addWidget(triangleWidget);
+
+    // Панель управления для ввода координат.
+    QWidget *controlPanel = new QWidget();
+    QFormLayout *formLayout = new QFormLayout(controlPanel);
+
+    QLineEdit *lineEditX1 = new QLineEdit();
+    QLineEdit *lineEditY1 = new QLineEdit();
+    QLineEdit *lineEditX2 = new QLineEdit();
+    QLineEdit *lineEditY2 = new QLineEdit();
+    QLineEdit *lineEditX3 = new QLineEdit();
+    QLineEdit *lineEditY3 = new QLineEdit();
+
+    // Устанавливаем валидаторы для ввода целых чисел.
+    lineEditX1->setValidator(new QIntValidator());
+    lineEditY1->setValidator(new QIntValidator());
+    lineEditX2->setValidator(new QIntValidator());
+    lineEditY2->setValidator(new QIntValidator());
+    lineEditX3->setValidator(new QIntValidator());
+    lineEditY3->setValidator(new QIntValidator());
+
+    formLayout->addRow("X1:", lineEditX1);
+    formLayout->addRow("Y1:", lineEditY1);
+    formLayout->addRow("X2:", lineEditX2);
+    formLayout->addRow("Y2:", lineEditY2);
+    formLayout->addRow("X3:", lineEditX3);
+    formLayout->addRow("Y3:", lineEditY3);
+
+    QPushButton *updateButton = new QPushButton("Обновить треугольник");
+    formLayout->addRow(updateButton);
+    mainLayout->addWidget(controlPanel);
+
+    // По нажатию кнопки читаем данные, устанавливаем вершины и проверяем корректность.
+    QObject::connect(updateButton, &QPushButton::clicked, [=]() {
+        bool ok1, ok2, ok3, ok4, ok5, ok6;
+        int x1 = lineEditX1->text().toInt(&ok1);
+        int y1 = lineEditY1->text().toInt(&ok2);
+        int x2 = lineEditX2->text().toInt(&ok3);
+        int y2 = lineEditY2->text().toInt(&ok4);
+        int x3 = lineEditX3->text().toInt(&ok5);
+        int y3 = lineEditY3->text().toInt(&ok6);
+
+        if (ok1 && ok2 && ok3 && ok4 && ok5 && ok6) {
+            bool result = triangleWidget->setPoints(QPoint(x1, y1), QPoint(x2, y2), QPoint(x3, y3));
+            if (!result) {
+                QMessageBox::warning(controlPanel, "Неверный ввод", "Введенные точки не образуют валидный треугольник.");
+            }
+        } else {
+            QMessageBox::warning(controlPanel, "Ошибка ввода", "Пожалуйста, введите корректные целочисленные значения для всех координат.");
+        }
+    });
+
+    mainWindow.resize(400, 500);
+    mainWindow.show();
 
     return app.exec();
 }

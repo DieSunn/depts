@@ -3,21 +3,33 @@
 
 #include <QMainWindow>
 
-QT_BEGIN_NAMESPACE
-namespace Ui {
-class MainWindow;
-}
-QT_END_NAMESPACE
+class Triangle;
+class QLineEdit;
+class QPushButton;
 
-class MainWindow : public QMainWindow
-{
+class MainWindow : public QMainWindow {
     Q_OBJECT
-
 public:
-    MainWindow(QWidget *parent = nullptr);
-    ~MainWindow();
+    explicit MainWindow(QWidget *parent = nullptr);
+
+private slots:
+    // Слот для обработки нажатия кнопки обновления треугольника.
+    void updateTriangle();
 
 private:
-    Ui::MainWindow *ui;
+    // Виджет для отрисовки треугольника.
+    Triangle *triangleWidget;
+
+    // Поля для ввода координат вершин.
+    QLineEdit *lineEditX1;
+    QLineEdit *lineEditY1;
+    QLineEdit *lineEditX2;
+    QLineEdit *lineEditY2;
+    QLineEdit *lineEditX3;
+    QLineEdit *lineEditY3;
+
+    // Кнопка для обновления треугольника.
+    QPushButton *updateButton;
 };
+
 #endif // MAINWINDOW_H
