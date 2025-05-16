@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5E902F70-C596-4CC2-8BEF-44C2F200C117}|Default">
+  <MonoDevelop.Ide.ItemProperties.SAOD2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Point.cs">
+    <Files>
+      <File FileName="out.txt" Line="8" Column="95" />
+      <File FileName="Main.cs" Line="15" Column="26" />
+      <File FileName="Point.cs" Line="72" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SAOD2" expanded="True">
+            <Node name="SAOD2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="out.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

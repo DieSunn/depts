@@ -13,3 +13,18 @@ F:\прога\Универ\долги\Зимняя сессия\ООП\Элек�
 F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.csproj.CoreCompileInputs.cache
 F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.exe
 F:\прога\Универ\долги\Зимняя сессия\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.pdb
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\bin\Debug\VirtualWalletApp.exe.config
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\bin\Debug\VirtualWalletApp.exe
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\bin\Debug\VirtualWalletApp.pdb
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.csproj.AssemblyReference.cache
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\MainWindow.g.cs
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\App.g.cs
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp_MarkupCompile.cache
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp_MarkupCompile.lref
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\MainWindow.baml
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.g.resources
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.Properties.Resources.resources
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.csproj.GenerateResource.cache
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.csproj.CoreCompileInputs.cache
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.exe
+D:\Прога\Универ\depts\ООП\Электронный кошелёк\VirtualWalletApp\VirtualWalletApp\obj\Debug\VirtualWalletApp.pdb
